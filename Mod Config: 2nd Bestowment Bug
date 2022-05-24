@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.3.3326 rev562</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+    <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>telardo.nolaggybed</li>
+    <li>mlie.extendedsurgery</li>
+    <li>jaxe.rimhud</li>
+    <li>fluffy.medicaltab</li>
+    <li>crashm.colorcodedmoodbar.11</li>
+    <li>miathea.foodpoisoningoverhaul.specific</li>
+    <li>avilmask.commonsense</li>
+    <li>voult.betterpawncontrol</li>
+    <li>jebo.noannoyances</li>
+    <li>zyxabacab.nosympathyforprisoners</li>
+    <li>children.and.pregnancy</li>
+    <li>zhize.reasonableresources</li>
+    <li>rimfridge.kv.rw</li>
+    <li>mlie.simplymorebridges</li>
+    <li>tradingspot.kv.rw</li>
+    <li>syrchalis.setupcamp</li>
+    <li>packmulesextended.standard</li>
+    <li>roolo.almostthere</li>
+    <li>jaxe.collapser</li>
+    <li>roolo.dualwield</li>
+    <li>mlie.variousspaceshipchunk</li>
+    <li>won2.hair</li>
+    <li>eagle0600.dresspatients</li>
+    <li>hidewalls.velcroboy333</li>
+    <li>cattleya.animatreereskin</li>
+    <li>hd.pashka.cattleya.animatreereskin</li>
+    <li>cattleya.florareskin</li>
+    <li>hd.pashka.cattleya.florareskin</li>
+    <li>mlie.caveworldflora</li>
+    <li>cattleya.animalsreskin</li>
+    <li>hd.pashka.cattleya.animalsreskin</li>
+    <li>mlie.spidercampshorses</li>
+    <li>cattleya.productionreskin</li>
+    <li>hd.pashka.cattleya.productionreskin</li>
+    <li>battlemage64.rimbrellas</li>
+    <li>george.bandage.recolor</li>
+    <li>automatic.recipeicons</li>
+    <li>jaxe.bubbles</li>
+  </activeMods>
+  <knownExpansions>
+    <li>ludeon.rimworld.ideology</li>
+    <li>ludeon.rimworld.royalty</li>
+  </knownExpansions>
+</ModsConfigData>
